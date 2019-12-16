@@ -51,7 +51,7 @@ hr{
 }
 
 .header {
-  background-color: darkslateblue;
+  background-color: chocolate;
   height: 177px;
   font-size: 0.8em;
   margin-left: 0px;
@@ -307,7 +307,7 @@ td img{
     height: 100px;
     padding: 28px 0 5px 0;
     text-align: center;
-    background-color: darkslateblue;
+    background-color: chocolate;
     color: #a8aa94;
     margin-left: 0px;
     margin-right: 0px;
